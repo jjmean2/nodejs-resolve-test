@@ -1,0 +1,7 @@
+{
+  "name": "yarn-pnp-app",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.3.1"
+}

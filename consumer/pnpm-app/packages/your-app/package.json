@@ -1,0 +1,7 @@
+{
+    "name": "your-app",
+    "version": "1.0.0",
+    "dependencies": {
+        "nice-build": "^1.3.0"
+    }
+}
